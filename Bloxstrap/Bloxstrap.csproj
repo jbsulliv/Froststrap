@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net10.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <EnableWindowsFormsAnalyzer>false</EnableWindowsFormsAnalyzer>
     <NoWarn>$(NoWarn);WFO1000</NoWarn>
     <Nullable>enable</Nullable>

@@ -2,6 +2,10 @@
     Froststrap
 </h1>
 
+<h1 align="center">
+    This fork uses .NET 8
+</h1>
+
 <p align="center">
     Froststrap is a fork of <a href="https://github.com/fishstrap/fishstrap.git"><strong>Fishstrap</strong></a> focused on performance, customization, and additional features.
 </p>
